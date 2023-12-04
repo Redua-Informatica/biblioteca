@@ -2,10 +2,10 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
+
   application:
     name: pjtec-api-biblioteca
-  main:
-    banner-mode: 'ON'
+
   data:
     web:
       pageable:
